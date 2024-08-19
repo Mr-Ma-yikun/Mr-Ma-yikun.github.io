@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/Mr-Ma-yikun/Mr-Ma-yikun.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/Mr-Ma-yikun/Mr-Ma-yikun.github.io/yikun.jpg" class="floatpic" width="1700" height="1200">
 
 Here is **Yikun Ma(马义坤)**.
 
