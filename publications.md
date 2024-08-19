@@ -15,11 +15,3 @@ title: Publications
 - Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet<br>**Yikun Ma**, Haoran Qi, Zhi Jin~<br>IEEE TRANSACTIONS ON MULTIMEDIA (TMM-24, Accept with Minor).
   <br>
 
----
-
-
-
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
