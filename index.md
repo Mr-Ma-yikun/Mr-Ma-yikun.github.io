@@ -20,12 +20,12 @@ Here is **Yikun Ma(马义坤)**.
 
 ## Main Papers
 
-- **Yikun Ma**, Dandan Zhan, Zhi Jin*
+- **Yikun Ma**, Dandan Zhan, Zhi Jin*. 
   FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting.
   Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence **(IJCAI-24)**.
 
 
-- **Yikun Ma**, Haoran Qi, Zhi Jin*
+- **Yikun Ma**, Haoran Qi, Zhi Jin*.
   Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet.
   IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-24**, Accept Minor).
 ---
