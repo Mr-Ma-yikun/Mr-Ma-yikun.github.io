@@ -27,6 +27,6 @@ Here is **Yikun Ma(马义坤)**.
 
 - **Yikun Ma**, Haoran Qi, Zhi Jin*.
   Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet.
-  IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-24**, Accept Minor).
+  IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-24**).
 
 
