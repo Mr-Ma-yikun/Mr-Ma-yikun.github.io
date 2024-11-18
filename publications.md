@@ -12,6 +12,6 @@ Proceedings of the Thirty-Third International Joint Conference on Artificial Int
 
 - Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet<br>
 **Yikun Ma**, Haoran Qi, Zhi Jin*<br>
-IEEE TRANSACTIONS ON MULTIMEDIA **(TMM-24, Accept with Minor)**.
+IEEE TRANSACTIONS ON MULTIMEDIA **(TMM-24)**.
   <br>
 
