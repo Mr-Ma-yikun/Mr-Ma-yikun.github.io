@@ -20,6 +20,10 @@ Here is **Yikun Ma(马义坤)**.
 
 ## Main Papers
 
+- **Yikun Ma**, Yiqing Li, Jiawei Wu, Zhi Jin*.
+  MotionDiff: Training-free Zero-shot Interactive Motion Editing via Flow-assisted Multi-view Diffusion.
+ (**ICCV-25**).
+
 - **Yikun Ma**, Dandan Zhan, Zhi Jin*. 
   FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting.
   Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence **(IJCAI-24)**.
@@ -29,13 +33,9 @@ Here is **Yikun Ma(马义坤)**.
   Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet.
   IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-24**).
 
-- **Yikun Ma**, Yiqing Li, Jiawei Wu, Zhi Jin*.
-  MotionDiff: Training-free Zero-shot Interactive Motion Editing via Flow-assisted Multi-view Diffusion.
- (**CVPR-25, Sub**).
 
-- Yiqing Li, Xuan Wang, Jiawei Wu, **Yikun Ma**, Zhi Jin*.
-  SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors.
- (**CVPR-25, Sub**).
+
+
   
 
 
