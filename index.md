@@ -6,10 +6,11 @@ layout: page
 
 <img src="yikun1.jpg" class="floatpic" width="300" height="400">
 
-Here is **Yikun Ma(马义坤)**.
+Here is **Yikun Ma (马义坤)**.
 
-  I am pursuing a master degree in the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University. 
-  Currently, I serve at the FVL (https://fvl2020.github.io/fvl.github.com/).
+  - I am pursuing a master degree in the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University. 
+  - Currently, I serve at the FVL (https://fvl2020.github.io/fvl.github.com/).
+  - I am currently interning at Tencent and preparing for the fall recruitment.
 
 ## Research Interests
 
