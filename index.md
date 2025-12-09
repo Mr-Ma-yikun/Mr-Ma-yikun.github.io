@@ -8,13 +8,10 @@ layout: page
 
 Here is **Yikun Ma (马义坤)**.
 
-  - I am pursuing a master degree in the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University. 
-  - Currently, I serve at the FVL (https://fvl2020.github.io/fvl.github.com/).
-  - I am currently interning at Tencent and preparing for the fall recruitment.
-    
+  - I am pursuing a master degree in the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University.
+  - 🧪 Member of the [Future Vision Lab (FVL)](https://fvl2020.github.io/fvl.github.com/) 
   - 🔬 **Research Intern** @ [Tencent AIPD] (Jun – Sep 2025)  
   Working on **LLM Agents for 3D Game** — enabling language-driven reasoning, coding generation in 3D scenes. 
-  - 🧪 Member of the [Future Vision Lab (FVL)](https://fvl2020.github.io/fvl.github.com/)
   - 🎯 Actively seeking full-time opportunities in **Generative 3D AI / LLM Agents / Computer Vision** (Fall 2025)
 ## Research Interests
 
