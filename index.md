@@ -33,11 +33,10 @@ Here is **Yikun Ma (马义坤)**.
 
 - **Yikun Ma**, Haoran Qi, Zhi Jin*.
   Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet.
-  IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-24**).
+  IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-25**).
 
 
-
-
-  
+- Yiqing Li, Xuan Wang, Jiawei Wu, **Yikun Ma**, Zhi Jin.
+  SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors. **TCSVT-2026**
 
 
