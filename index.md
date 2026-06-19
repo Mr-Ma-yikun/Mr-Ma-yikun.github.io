@@ -32,12 +32,17 @@ Here is **Yikun Ma (马义坤)**.
 
 - **Yikun Ma**, Haoran Qi, Zhi Jin*.
   Eliminating Moire Patterns Across Diverse Image Resolutions via DMMNet.
-  IEEE TRANSACTIONS ON MULTIMEDIA (**TMM-25**).
+  IEEE Transactions on Multimedia (**TMM-25**).
 
 - **Yikun Ma**, Yiqing Li, Jingwen Ye, Zhongkai Wu, Weidong Zhang, Lin Gao, Zhi Jin*.
   FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization.
   Arxiv-26.
+  
+- Jiawei Wu, **Yikun Ma**, Wenqi Ren, Zhi Jin, Xiaochun Cao.
+  FreeDehaze: Towards Training-free Real-world Image Dehazing via Diffusion Degradation Prior.
+  IEEE Transactions on Image Processing (**TIP-26**).
 
 - Yiqing Li, Xuan Wang, Jiawei Wu, **Yikun Ma**, Zhi Jin.
-  SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors. **TCSVT-2026**
+  SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors.
+  **TCSVT-2026**
 
