@@ -8,9 +8,8 @@ layout: page
 
 Here is **Yikun Ma (马义坤)**.
 
-  - Received Master degree from the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University. 
-  - 🧪 Member of the [FVL](https://fvl2020.framer.website/) 
-  - 🔬 **Algorithm Researcher** @ [Tencent AIPD] (2026 – present)  
+  - Received Master degree from the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University. 🧪 Member of the [FVL](https://fvl2020.framer.website/) 
+  - 🔬 **Algorithm Researcher** @ [Tencent AIPD] (2026 – present) 
   - Working on **LLM Agents for 3D Game** — enabling language-driven reasoning, coding generation in 3D scenes. 
 
 ## Research Interests
