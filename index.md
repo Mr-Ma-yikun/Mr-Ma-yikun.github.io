@@ -6,11 +6,10 @@ layout: page
 
 <img src="yikun1.jpg" class="floatpic" width="300" height="400">
 
-Here is **Yikun Ma (马义坤)**.
-
+Here is **Yikun Ma (马义坤)**. 
   - Received Master degree from the School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University.
-  - 🔬 **Algorithm Researcher** @ [Tencent AIPD] (2026 – present).
-  - Working on **LLM Agents for 3D Game** — enabling language-driven reasoning, coding generation in 3D scenes. 
+  - Algorithm Researcher @ [Tencent] (2026 – present). email: yikunma@tencent.com
+  - Working on **LLM Agents for 3D Game** — enabling language-driven reasoning and generation in 3D scenes. 
 
 ## Research Interests
 
