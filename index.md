@@ -35,7 +35,7 @@ Here is **Yikun Ma (马义坤)**.
 
 - **Yikun Ma**, Yiqing Li, Jingwen Ye, Zhongkai Wu, Weidong Zhang, Lin Gao, Zhi Jin*.
   FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization.
-  Arxiv, 2026.
+  **NeurIPS, 2026**.
   
 - Jiawei Wu, **Yikun Ma**, Wenqi Ren, Zhi Jin, Xiaochun Cao.
   FreeDehaze: Towards Training-free Real-world Image Dehazing via Diffusion Degradation Prior.
